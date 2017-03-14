@@ -4,24 +4,18 @@
 * Cập nhật các UI Design Resources, các UI Design Trend (ví dụ Flat, Material,...) trong Mobile.
 * Cập nhật các tutorial để làm UI/UX trong Photoshop/Illustrator/Sketch
 
+### Các xu hướng thiết kế UI (UI Design Trend)
+* Flat Design
+* Material Design
+* Functional animations and motion design
+* Card View and Swipe Navigation
+* Fresh Color Paletts
+* Typography
+* UI/UX adaptation for larger screens
+
 ### Application UI Kits
-* KonvaJS Lesson 1: Introduction to Konva.js
-* KonvaJS Lesson 2: Creating Shapes
-* KonvaJS Lesson 3: Adding Styles
-* KonvaJS Lesson 4: Events
-* KonvaJS Lesson 5: Dragging Elements
-* KonvaJS Lesson 6: Blur Filter
-* KonvaJS Lesson 7: Brighten & Enhance Filters
-* KonvaJS Lesson 8: HSL Filter – Hue, Saturation, Luminance
-* KonvaJS Lesson 9: RGB and RGBA Filters
-* KonvaJS Lesson 10: Pixelate Filter
-* KonvaJS Lesson 11: Noise and Posterize Filters
-* KonvaJS Lesson 12: Grayscale and Sepia Filters
-* KonvaJS Lesson 13: Rectangle & Ellipse
-* KonvaJS Lesson 14: Wedge
-* KonvaJS Lesson 15: Line Element & Dashed Lines
-* KonvaJS Lesson 16: Line Polygon & Spline
-* KonvaJS Lesson 17: Regular Polygons & LineJoin Property
+* [Freebies UI Kit]
+* [Sketch App Resources]
 
 ### Game UI Kits
 
@@ -42,6 +36,41 @@
 * [Subtlepatterns.com]
 * [Openclipart.org]
 
+### Fonts
+* [1001 Fonts]
+* [Dafonts]
+* [Fonts Squirrel]
+
+### Patterns
+* [Subtle Patterns]
+
+### Icons
+
+### Buttons
+
+### Sound
+
+* [Freesound.org]
+* [99Sounds.org]
+* [NoiseForFun.com]
+* [Incompetech.com]
+* [OpenGameArt.org]
+* [RaisedBeaches.com]
+* [Musopen.org]
+* [PlayonLoop.com]
+* [Bensound.com]
+* [SoundJay.com]
+* [Dig.ccmixter.org]
+* [Soundgator.com]
+* [Pacdv.com]
+* [Freesfx.co.uk]
+* [Soundtrack.imphenzia.com]
+* [Bxfr.net]
+
+
+### Free Images
+* [Pixabay]
+* [Freepik]
 
 ### Editors
 
@@ -60,22 +89,45 @@
    [Freebies UI Kit]: <http://freebiesbug.com/psd-freebies/ui-kits/>
    [Sketch App Resources]: <https://www.sketchappsources.com/category/ui.html>
 
-    [Kenney.nl]: <http://www.kenney.nl>
-	[OpenGameArt.org]: <http://www.OpenGameArt.org>
-	[Untamed.wild-refuge.net]: <http://www.Untamed.wild-refuge.net>
-	[Crateboy.itch.io]: <http://www.Crateboy.itch.io>
-	[Opengamegraphics.com]: <http://www.Opengamegraphics.com>
-	[Gameart2d.com]: <http://www.Gameart2d.com>
-	[Wigdetworx.com]: <http://www.Wigdetworx.com>
-	[GlitchtheGame.com]: <http://www.GlitchtheGame.com>
-	[Dumbanex.com]: <http://www.Dumbanex.com>
-	[Reinerstilesets.de]: <http://www.Reinerstilesets.de>
-	[Sharecg.com]: <http://www.Sharecg.com>
-	[Roenica.com]: <http://www.Roenica.com>
-	[Blogoscoped.com]: <http://www.Blogoscoped.com>
-	[Lostgarden.com]: <http://www.Lostgarden.com>
-	[Subtlepatterns.com]: <http://www.Subtlepatterns.com>
-	[Openclipart.org]: <http://www.Openclipart.org>
+   [Kenney.nl]: <http://www.kenney.nl>
+   [OpenGameArt.org]: <http://www.OpenGameArt.org>
+   [Untamed.wild-refuge.net]: <http://www.Untamed.wild-refuge.net>
+   [Crateboy.itch.io]: <http://www.Crateboy.itch.io>
+   [Opengamegraphics.com]: <http://www.Opengamegraphics.com>
+   [Gameart2d.com]: <http://www.Gameart2d.com>
+   [Wigdetworx.com]: <http://www.Wigdetworx.com>
+   [GlitchtheGame.com]: <http://www.GlitchtheGame.com>
+   [Dumbanex.com]: <http://www.Dumbanex.com>
+   [Reinerstilesets.de]: <http://www.Reinerstilesets.de>
+   [Sharecg.com]: <http://www.Sharecg.com>
+   [Roenica.com]: <http://www.Roenica.com>
+   [Blogoscoped.com]: <http://www.Blogoscoped.com>
+   [Lostgarden.com]: <http://www.Lostgarden.com>
+   [Subtlepatterns.com]: <http://www.Subtlepatterns.com>
+   [Openclipart.org]: <http://www.Openclipart.org>
 
+   [Pixabay]: <https://pixabay.com/>
+   [FreePik]: <https://freepik.com/>
 
+   [1001 Fonts]: <http://www.1001fonts.com/>
+   [Dafonts]: <http://www.dafont.com/>
+   [Fonts Squirrel]: <https://www.fontsquirrel.com/>
 
+   [Freesound.org]: <http://www.Freesound.org>
+   [99Sounds.org]: <http://www.99Sounds.org>
+   [NoiseForFun.com]: <http://www.NoiseForFun.com>
+   [Incompetech.com]: <http://www.Incompetech.com>
+   [OpenGameArt.org]: <http://www.OpenGameArt.org>
+   [RaisedBeaches.com]: <http://www.RaisedBeaches.com>
+   [Musopen.org]: <http://www.Musopen.org>
+   [PlayonLoop.com]: <http://www.PlayonLoop.com>
+   [Bensound.com]: <http://www.Bensound.com>
+   [SoundJay.com]: <http://www.SoundJay.com>
+   [Dig.ccmixter.org]: <http://www.Dig.ccmixter.org>
+   [Soundgator.com]: <http://www.Soundgator.com>
+   [Pacdv.com]: <http://www.Pacdv.com>
+   [Freesfx.co.uk]: <http://www.Freesfx.co.uk>
+   [Soundtrack.imphenzia.com]: <http://www.Soundtrack.imphenzia.com>
+   [Bxfr.net]: <http://www.Bxfr.net>
+
+   [Subtle Patterns]: <https://www.toptal.com/designers/subtlepatterns/>
